@@ -20,3 +20,21 @@
 .container{
     margin-bottom: 50px;
 }
+.watch-background{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(255,209,67,1) 0%, rgba(255,145,83,1) 90% );
+    border-radius: 5px;
+    color: white;
+    padding: 10px 30px;
+}
+.bag-background{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(147,67,67,1) 0%, rgba(111,27,27,1) 90% );
+    border-radius: 5px;
+    color: white;
+    padding: 10px 30px;
+}
+.shoes-background{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(37,145,251,0.98) 0.1%, rgba(0,7,128,1) 99.8% );
+    border-radius: 5px;
+    color: white;
+    padding: 10px 30px;
+}
